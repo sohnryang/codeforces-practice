@@ -161,3 +161,6 @@ dmypy.json
 .pyre/
 
 # End of https://www.gitignore.io/api/c++,python
+
+# data files
+data*.txt
